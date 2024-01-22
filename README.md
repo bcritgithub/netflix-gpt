@@ -25,15 +25,21 @@
 - Update Store with movies Data
 - Planning for Main Container and secondary container
 - Fetch data from trailer video
-- Update store with trailer video data 
+- Update store with trailer video data
 - embbed the youtube video and make it autoplay
 - Tailwind classes to make main Container look awesome
 - Build Secondary Component
 - build movieList
 - build MovieCard
-- TMDB Image CDN URL 
+- TMDB Image CDN URL
 - Made the browse page amazing with tailwind CSS
 - use popular custom hooks
+- GPT search feature
+- GPT Search Page 
+- GPT search bar
+- Multi lang features
+- integrate GPT API's
+
 
 
 
