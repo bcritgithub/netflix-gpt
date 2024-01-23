@@ -6,13 +6,21 @@ export const USER_AVATAR =
  "https://tse2.mm.bing.net/th?id=OIP.RE_WgzICByGEGmvLtanb6QHaHa&pid=Api&P=0&h=180";
 
 
- export const API_OPTIONS =  {
-    method: 'GET',
-    headers: {
-      accept: 'application/json',
-      Authorization: "Bearer" + process.env.REACT_APP_TMDB_KEY,
-    }
-  };
+//  export const API_OPTIONS =  {
+//     method: 'GET',
+//     headers: {
+//       accept: 'application/json',
+//       Authorization: "Bearer" + process.env.REACT_APP_TMDB_KEY,
+//     }
+//   };
+
+export const API_OPTIONS =  {
+  method: 'GET',
+  headers: {
+    accept: 'application/json',
+    Authorization: 'Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIzMzczYTQyZjdkMGM4YjkxYzllZTE2MDc0NGE1YWM2ZiIsInN1YiI6IjY1YWMxNDU1ZjI2M2JhMDBlYWIzNGJkZCIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.zdpIkjlpQgAAZmLRsrfCv8W9ZkgiepP5koeTCGa3u7k'
+  }
+};
 
   export const IMG_CDN_URL = "https://image.tmdb.org/t/p/w780/";
 

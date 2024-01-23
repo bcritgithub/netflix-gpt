@@ -35,10 +35,20 @@
 - Made the browse page amazing with tailwind CSS
 - use popular custom hooks
 - GPT search feature
-- GPT Search Page 
+- GPT Search Page
 - GPT search bar
 - Multi lang features
 - integrate GPT API's
+- Gpt Open AI Api Key
+- Gpt Search API Call
+- Fetched Gpt movie Suggestions from tmdb
+- Created gptSlice added date
+- reused movieList component to make movie suggestion container 
+- Memorization
+- adding .env file
+- adding .env file to git  ignore
+- made our side responsive
+
 
 
 
